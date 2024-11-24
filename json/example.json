@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Kardiyansah",
+        "age": 19,
+        "birth_day": "25-december-2004",
+        "graduated": true,
+        "hobbies": [
+            "coding",
+            "trading",
+            "investments"
+        ],
+
+        "favourite_channels": {
+            "channel1": "Sandhika galih",
+            "chaneel2": "Timothy ronald"
+        }
+    },
+    {
+        "name": "Alexander",
+        "age": 19,
+        "birth_day": "12-june-2004",
+        "graduated": true,
+        "hobbies": [
+            "conquer"
+        ],
+
+        "favourite_channels": {
+            "channel1": "Brandon kent",
+            "chaneel2": "Mr. beast"
+        }
+    }
+]
